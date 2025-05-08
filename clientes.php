@@ -187,7 +187,8 @@ $result = $conn->query($sql);
         <div class="container-fluid">
             <a class="navbar-brand flex items-center space-x-2" href="index.php">
                 <i class="bi bi-p-square-fill text-2xl text-blue-900"></i>
-                <span class="text-xl font-bold text-blue-900">SQLPaking</span>
+                <span class="text-xl font-bold text-blue-900">LTParking
+                </span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
