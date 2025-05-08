@@ -6,7 +6,7 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SQLPaking - Dashboard</title>
+    <title>Dashboard</title>
     <!-- Tailwind CSS CDN -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <!-- Bootstrap CSS -->
@@ -74,7 +74,7 @@ session_start();
         <div class="container-fluid">
             <a class="navbar-brand flex items-center space-x-2" href="index.php">
                 <i class="bi bi-p-square-fill text-2xl text-blue-900"></i>
-                <span class="text-xl font-bold text-blue-900">TLParking</span>
+                <span class="text-xl font-bold text-blue-900">LTParking</span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
